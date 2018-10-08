@@ -14,9 +14,24 @@ namespace CSharp_OlimpiadasMatematica2017.Metodos
         {
             string qndVezes = String.Empty;
 
-            qndVezes = Convert.ToString(position.aviao);
+            if (position.Aviao < position.Disco)
+            {
+                qndVezes = Convert.ToString(position.Disco - position.Aviao);
+            }
+            else if (position.Aviao > position.Disco)
+            {
+                int result = position.QtdPosicoes - position.Aviao;
+                qndVezes = Convert.ToString(result + position.Disco);
+            }
+            else if (position.Aviao.Equals(position.Disco))
+            {
+                qndVezes =  "0";
+            }
 
-            return qndVezes;
+            return ("A quantidade de vezes necessaria para atingir o disco viador é: "+qndVezes);
         }
+
+
+
     }
 }
