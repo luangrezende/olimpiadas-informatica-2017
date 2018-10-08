@@ -9,8 +9,8 @@ namespace CSharp_OlimpiadasMatematica2017.Models
     class Game10Models
     {
         //POSICOES
+        public int QtdPosicoes { get; set; }
         public int Disco { get; set; }
         public int Aviao { get; set; }
-        public int QtdPosicoes { get; set; }
     }
 }

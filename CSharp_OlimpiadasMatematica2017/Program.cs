@@ -14,6 +14,10 @@ namespace CSharp_OlimpiadasMatematica2017
         {
             //Game10 - disco voador
             Game10 game10 = new Game10();
+            Console.WriteLine("Digite as posicoes: ");
+            Console.WriteLine("Aviao: ");
+             Console.WriteLine("Disco voador: ");
+
             Game10Models pos = new Game10Models
             {
                 QtdPosicoes = Convert.ToInt32(Console.ReadLine()),
