@@ -1,0 +1,7 @@
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\OlimpiadasInformatica2017\bin\Debug\OlimpiadasInformatica2017.exe.config
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\OlimpiadasInformatica2017\bin\Debug\OlimpiadasInformatica2017.exe
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\OlimpiadasInformatica2017\bin\Debug\OlimpiadasInformatica2017.pdb
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\OlimpiadasInformatica2017\obj\Debug\OlimpiadasInformatica2017.csprojAssemblyReference.cache
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\OlimpiadasInformatica2017\obj\Debug\OlimpiadasInformatica2017.csproj.CoreCompileInputs.cache
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\OlimpiadasInformatica2017\obj\Debug\OlimpiadasInformatica2017.exe
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\OlimpiadasInformatica2017\obj\Debug\OlimpiadasInformatica2017.pdb

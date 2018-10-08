@@ -12,22 +12,32 @@ namespace OlimpiadasInformatica2017
     {
         static void Main(string[] args)
         {
-            //Game10 - disco voador
-            MetodosGame10 game10 = new MetodosGame10();
-            Console.WriteLine("Digite as posicoes: ");
-            Console.WriteLine("Aviao: ");
-            Console.WriteLine("Disco voador: ");
+            Console.WriteLine("Olimpiadas de Informatica 2017 - Teste de funções em C#");
+            Console.WriteLine("Digite a opcao desejada: \n1 - Game10 \n0 - Sair");
+            int select = Convert.ToInt16(Console.ReadLine());
 
-            Game10Models pos = new Game10Models
+            switch (select)
             {
-                QtdPosicoes = Convert.ToInt32(Console.ReadLine()),
-                Aviao = Convert.ToInt32(Console.ReadLine()),
-                Disco = Convert.ToInt32(Console.ReadLine())
-            };
+                case 1:
+                    //Game10 - disco voador
+                    Metodos.Metodos game10 = new Metodos.Metodos();
+                    Console.WriteLine("Game 10");
+                    Console.WriteLine("Digite: Quantidade posições, posição do disco e posição do aviao");
 
-            string resultado = game10.Game(pos);
-            Console.WriteLine(resultado);
+                    AppModels pos = new AppModels
+                    {
+                        QtdPosicoes = Convert.ToInt32(Console.ReadLine()),
+                        Disco = Convert.ToInt32(Console.ReadLine()),
+                        Aviao = Convert.ToInt32(Console.ReadLine()),
+                    };
 
+                    string resultado = game10.Game(pos);
+                    Console.WriteLine(resultado);
+                    break;
+                case 0:
+                    Console.WriteLine("Saindo...");
+                    break;
+            }
             //=======================================================//
             Console.WriteLine();
             Console.ReadLine();

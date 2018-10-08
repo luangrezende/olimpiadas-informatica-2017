@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OlimpiadasInformatica2017.Models
 {
-    class Game10Models
+    class AppModels
     {
         //POSICOES
         public int QtdPosicoes { get; set; }

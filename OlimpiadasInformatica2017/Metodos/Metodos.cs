@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace OlimpiadasInformatica2017.Metodos
 {
-    class MetodosGame10
+    class Metodos
     {
-        public string Game(Game10Models position)
+        public string Game(AppModels position)
         {
             string qndVezes = String.Empty;
             if (position.QtdPosicoes > position.Aviao || position.Disco < position.QtdPosicoes)
