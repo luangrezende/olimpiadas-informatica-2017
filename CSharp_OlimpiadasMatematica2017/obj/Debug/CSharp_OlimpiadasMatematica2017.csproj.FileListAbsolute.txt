@@ -1,0 +1,7 @@
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\CSharp_OlimpiadasMatematica2017\bin\Debug\CSharp_OlimpiadasMatematica2017.exe.config
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\CSharp_OlimpiadasMatematica2017\bin\Debug\CSharp_OlimpiadasMatematica2017.exe
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\CSharp_OlimpiadasMatematica2017\bin\Debug\CSharp_OlimpiadasMatematica2017.pdb
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\CSharp_OlimpiadasMatematica2017\obj\Debug\CSharp_OlimpiadasMatematica2017.csprojAssemblyReference.cache
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\CSharp_OlimpiadasMatematica2017\obj\Debug\CSharp_OlimpiadasMatematica2017.csproj.CoreCompileInputs.cache
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\CSharp_OlimpiadasMatematica2017\obj\Debug\CSharp_OlimpiadasMatematica2017.exe
+C:\Users\luan.rezende\Desktop\REPO GITHUB\OlimpiadasInformatica2017\CSharp_OlimpiadasMatematica2017\obj\Debug\CSharp_OlimpiadasMatematica2017.pdb

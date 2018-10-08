@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Metodos\Game10.cs" />
     <Compile Include="Metodos\TrocandoBotas.cs" />
+    <Compile Include="Models\Game10Models.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,4 +1,5 @@
 ﻿using CSharp_OlimpiadasMatematica2017.Metodos;
+using CSharp_OlimpiadasMatematica2017.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +14,18 @@ namespace CSharp_OlimpiadasMatematica2017
         {
             //Game10 - disco voador
             Game10 game10 = new Game10();
-            game10.
+            Game10Models pos = new Game10Models();
 
+            pos.qtdPosicoes = Console.Read();
+            pos.aviao = Console.Read();
+            pos.disco = Console.Read();
+
+            string resultado = game10.Game(pos);
+            Console.WriteLine(resultado);
+
+            //=======================================================//
+            Console.WriteLine();
+            Console.ReadLine();
         }
     }
 }
