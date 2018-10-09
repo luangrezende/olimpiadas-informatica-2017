@@ -18,10 +18,10 @@ Projeto desenvolvido em C# <b>(version: "1.0")</b>
 <br />
 <br />
 
-## Utilizando o código:
+## Utilizando o Pr´jeto:
 <br />
 
-✅Copie o codigo do arquivo acima e cole em algum compilado C#, dentro do código possui 2 funções, um é da questão 1 da prova<b>(Game10)</b>, o outro é da questão seuinte,<b>(trocando as botas)</b>.
+✅Clone o repositorio do projeto acima e abra em algum compilador C#(Recomedavel o uso Visual Studio mais recente), dentro do código possui algumas funções que foram apresentadas nas Olimpiadas de Informatica de 2017, tais como <b>(Game10)</b> que era um jogo de relogio, o outro <b>(trocando as botas)</b> que consiste em resolução de problema com lógica.
 
 <br/>
 <br/>
