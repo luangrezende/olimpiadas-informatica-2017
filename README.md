@@ -18,7 +18,7 @@ Projeto desenvolvido em C# <b>(version: "1.0")</b>
 <br />
 <br />
 
-## Utilizando o Pr´jeto:
+## Utilizando o Projeto:
 <br />
 
 ✅Clone o repositorio do projeto acima e abra em algum compilador C#(Recomedavel o uso Visual Studio mais recente), dentro do código possui algumas funções que foram apresentadas nas Olimpiadas de Informatica de 2017, tais como <b>(Game10)</b> que era um jogo de relogio, o outro <b>(trocando as botas)</b> que consiste em resolução de problema com lógica.
