@@ -13,15 +13,14 @@ Projeto desenvolvido em C# <b>(version: "1.0")</b>
 
 ## Ferramentas:
 * **Microsoft Visual Studio**
-  * Version: 2017
-* **C#**
+* **.NET**
 <br />
 <br />
 
 ## Utilizando o Projeto:
 <br />
 
-✅Clone o repositorio do projeto acima e abra em algum compilador C#(Recomedavel o uso Visual Studio mais recente), dentro do código possui algumas funções que foram apresentadas nas Olimpiadas de Informatica de 2017, tais como <b>(Game10)</b> que era um jogo de relogio, o outro <b>(trocando as botas)</b> que consiste em resolução de problema com lógica.
+Clone o repositorio do projeto acima e abra em alguma IDE C#(Recomedavel o uso Visual Studio ou VS Code), dentro do código possui algumas funções que foram apresentadas nas Olimpiadas de Informatica de 2017, tais como <b>(Game10)</b> um jogo de relogio, que utiliza lógica para acertar uma nave em movimento <b>(trocando as botas)</b> que consiste em resolução de problema com lógica e manipulação de vetores.
 
 <br/>
 <br/>
